@@ -1,0 +1,30 @@
+D:\ASM\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\ASM\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\ASM\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\ASM\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.GameForm.resources
+D:\ASM\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\ASM\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+D:\ASM\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+D:\ASM\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\ASM\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\97254\Desktop\יג\tic\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\97254\Desktop\יג\tic\bin\Debug\WindowsFormsApp1.exe
+C:\Users\97254\Desktop\יג\tic\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\97254\Desktop\יג\tic\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\97254\Desktop\יג\tic\obj\Debug\WindowsFormsApp1.GameForm.resources
+C:\Users\97254\Desktop\יג\tic\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\97254\Desktop\יג\tic\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\97254\Desktop\יג\tic\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\97254\Desktop\יג\tic\obj\Debug\WindowsFormsApp1.exe
+C:\Users\97254\Desktop\יג\tic\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\97254\Desktop\יג\tic\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\obj\Debug\WindowsFormsApp1.GameForm.resources
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\obj\Debug\WindowsFormsApp1.exe
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\bin\Debug\WindowsFormsApp1.exe
+C:\Users\97254\Desktop\יג\תיק פרוייקט - המבוך\quoridor\bin\Debug\WindowsFormsApp1.pdb
